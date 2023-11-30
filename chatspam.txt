@@ -10,3 +10,4 @@ while task.wait(settings.AutoChat_Time) do
     chatrem:FireServer('PUT YOUR MESSAGE HERE', "All")
     print("Sent Message")
 end
+--.gg/byefron for more op scripts like this!!!!--
